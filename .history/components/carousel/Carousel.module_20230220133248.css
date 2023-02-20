@@ -1,0 +1,13 @@
+.arrow{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: end;
+}
+
+.carousel{
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
